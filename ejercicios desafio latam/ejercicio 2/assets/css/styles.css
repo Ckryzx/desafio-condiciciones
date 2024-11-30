@@ -1,0 +1,11 @@
+img {
+    width: 50px; 
+    height: auto; 
+    margin-right: 10px; 
+    display: inline-block;
+    vertical-align: middle;
+}
+
+div {
+    margin-bottom: 10px;
+}
